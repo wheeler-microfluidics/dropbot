@@ -1,0 +1,27 @@
+[submodule "electronics/dmf_control_board"]
+	path = electronics/dmf_control_board
+	url = http://microfluidics.utoronto.ca/git/kicad___dmf_control_board.git
+[submodule "electronics/40-channel_HV_switching_board"]
+	path = electronics/40-channel_HV_switching_board
+	url = http://microfluidics.utoronto.ca/git/kicad___40-channel_HV_switching_board.git
+[submodule "electronics/120-channel_pogo_pin_board"]
+	path = electronics/120-channel_pogo_pin_board
+	url = http://microfluidics.utoronto.ca/git/kicad___120-channel_pogo_pin_board.git
+[submodule "electronics/signal_generator_board"]
+	path = electronics/signal_generator_board
+	url = http://microfluidics.utoronto.ca/git/kicad___signal_generator_board.git
+[submodule "firmware/signal_generator"]
+	path = firmware/signal_generator
+	url = http://microfluidics.utoronto.ca/git/firmware___signal_generator_board.git
+[submodule "software/microdrop"]
+	path = software/microdrop
+	url = http://microfluidics.utoronto.ca/git/microdrop.git
+[submodule "mechanical/case"]
+	path = mechanical/case
+	url = http://microfluidics.utoronto.ca/git/sketchup___dropbot_case.git
+[submodule "mechanical/120-channel_device_connector"]
+	path = mechanical/120-channel_device_connector
+	url = http://microfluidics.utoronto.ca/git/sketchup___120-channel_device_connector.git
+[submodule "software/dmf_control_board"]
+	path = software/dmf_control_board
+	url = http://microfluidics.utoronto.ca/git/dmf_control_board.git
