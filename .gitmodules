@@ -25,3 +25,9 @@
 [submodule "software/dmf_control_board"]
 	path = software/dmf_control_board
 	url = http://microfluidics.utoronto.ca/git/dmf_control_board.git
+[submodule "electronics/extension_module_proto_board"]
+	path = electronics/extension_module_proto_board
+	url = http://microfluidics.utoronto.ca/git/kicad___extension_module_proto_board.git
+[submodule "electronics/test_board"]
+	path = electronics/test_board
+	url = http://microfluidics.utoronto.ca/git/kicad___dropbot_test_board.git

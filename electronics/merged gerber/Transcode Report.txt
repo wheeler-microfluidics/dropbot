@@ -1,0 +1,12 @@
+
+
+   ---- Transcoding 'C:\Users\ryan\Dropbox\dropbot\electronics\merged gerber\dropbot_panel.sco' ----   Thu May 08 12:20:38 2014
+
+D10   --> D102
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\ryan\Dropbox\dropbot\electronics\merged gerber\dropbot_panel.oln' ----   Thu May 08 12:20:41 2014
+
+D10   --> D104
+-----------------------------------------------------------------
