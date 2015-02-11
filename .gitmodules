@@ -31,3 +31,6 @@
 [submodule "electronics/test_board"]
 	path = electronics/test_board
 	url = http://microfluidics.utoronto.ca/git/kicad___dropbot_test_board.git
+[submodule "electronics/anti-aliasing_filter_shield.git"]
+	path = electronics/anti-aliasing_filter_shield
+	url = http://microfluidics.utoronto.ca/git/kicad___anti-aliasing_filter_shield.git
