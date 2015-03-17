@@ -22,3 +22,15 @@ D10   --> D106
 
 D10   --> D108
 -----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\ryan\Documents\dev\dropbot\electronics\merged gerber\dropbot_panel.sco' ----   Tue Mar 17 14:09:11 2015
+
+D10   --> D106
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\ryan\Documents\dev\dropbot\electronics\merged gerber\dropbot_panel.oln' ----   Tue Mar 17 14:09:13 2015
+
+D10   --> D108
+-----------------------------------------------------------------
