@@ -1,36 +1,39 @@
 [submodule "electronics/dmf_control_board"]
 	path = electronics/dmf_control_board
-	url = http://microfluidics.utoronto.ca/git/kicad___dmf_control_board.git
+	url = https://github.com/wheeler-microfluidics/kicad___dmf_control_board
 [submodule "electronics/40-channel_HV_switching_board"]
 	path = electronics/40-channel_HV_switching_board
-	url = http://microfluidics.utoronto.ca/git/kicad___40-channel_HV_switching_board.git
+	url = https://github.com/wheeler-microfluidics/kicad___40-channel_HV_switching_board 
 [submodule "electronics/120-channel_pogo_pin_board"]
 	path = electronics/120-channel_pogo_pin_board
-	url = http://microfluidics.utoronto.ca/git/kicad___120-channel_pogo_pin_board.git
+	url = https://github.com/wheeler-microfluidics/kicad___120-channel_pogo_pin_board
 [submodule "electronics/signal_generator_board"]
 	path = electronics/signal_generator_board
-	url = http://microfluidics.utoronto.ca/git/kicad___signal_generator_board.git
+	url = https://github.com/wheeler-microfluidics/kicad___signal_generator_board
+[submodule "firmware/dmf_control_board_firmware"]
+	path = software/dmf_control_board_firmware
+	url = https://github.com/wheeler-microfluidics/dmf-control-board-firmware
+[submodule "firmware/hv_switching_board"]
+	path = firmware/hv_switching_board
+	url = https://github.com/wheeler-microfluidics/hv-switching-board-firmware
 [submodule "firmware/signal_generator"]
 	path = firmware/signal_generator
-	url = http://microfluidics.utoronto.ca/git/firmware___signal_generator_board.git
+	url = https://github.com/wheeler-microfluidics/signal-generator-board-firmware
 [submodule "software/microdrop"]
 	path = software/microdrop
-	url = http://microfluidics.utoronto.ca/git/microdrop.git
+	url = https://github.com/wheeler-microfluidics/microdrop
 [submodule "mechanical/case"]
 	path = mechanical/case
-	url = http://microfluidics.utoronto.ca/git/sketchup___dropbot_case.git
+	url = https://github.com/wheeler-microfluidics/sketchup___dropbot_case
 [submodule "mechanical/120-channel_device_connector"]
 	path = mechanical/120-channel_device_connector
-	url = http://microfluidics.utoronto.ca/git/sketchup___120-channel_device_connector.git
-[submodule "software/dmf_control_board"]
-	path = software/dmf_control_board
-	url = http://microfluidics.utoronto.ca/git/dmf_control_board.git
+	url = https://github.com/wheeler-microfluidics/sketchup___120-channel_device_connector
 [submodule "electronics/extension_module_proto_board"]
 	path = electronics/extension_module_proto_board
-	url = http://microfluidics.utoronto.ca/git/kicad___extension_module_proto_board.git
+	url = https://github.com/wheeler-microfluidics/kicad___extension_module_proto_board
 [submodule "electronics/test_board"]
 	path = electronics/test_board
-	url = http://microfluidics.utoronto.ca/git/kicad___dropbot_test_board.git
+	url = https://github.com/wheeler-microfluidics/kicad___dropbot_test_board
 [submodule "electronics/anti-aliasing_filter_shield.git"]
 	path = electronics/anti-aliasing_filter_shield
-	url = http://microfluidics.utoronto.ca/git/kicad___anti-aliasing_filter_shield.git
+	url = https://github.com/wheeler-microfluidics/kicad___anti-aliasing_filter_shield
